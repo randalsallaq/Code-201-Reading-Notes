@@ -44,3 +44,13 @@ so when you want to add some special presentation to your structure, you can use
 **first of all**
 to determine which presentations you are going to apply on ypur website, you have to know your audience. bu knowing your audience you will be able to create a presentation which allows them to access your content in a better way. and this what every web developer wants!
 ![hg](https://www.tutorialrepublic.com/lib/images/html-illustration.png)
+
+for example, you can group youe content in order to make the design easier to comprehend. how can you do this?
+1. proximity
+2. continuation
+3. similarity
+4. commom region
+5. closure
+6. connectedness
+
+![l](https://www.webdesignerdepot.com/cdn-origin/uploads4/gestalt-ux-principles/gestaltens.jpg)
