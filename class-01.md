@@ -34,4 +34,13 @@ can add the text between these characters:
 "The id attribute specifies a unique id for an HTML element (the value must be unique within the HTML document).
 The id attribute is most used to point to a style in a style sheet, and by JavaScript (via the HTML DOM) to manipulate the element with the specific id."
 
-`<p id ="this is an id"> we use ids to style a spesific part or element such as this paragragh </p>
+`<p id ="this is an id"> we use ids to style a spesific part or element such as this paragragh </p>`
+
+## HTML5:
+HTML5 is a markup language used for structuring and presenting content on the World Wide Web..
+so when you want to add some special presentation to your structure, you can use latest major version of HTML which allows you to do so.
+
+
+**first of all**
+to determine which presentations you are going to apply on ypur website, you have to know your audience. bu knowing your audience you will be able to create a presentation which allows them to access your content in a better way. and this what every web developer wants!
+![hg](https://www.tutorialrepublic.com/lib/images/html-illustration.png)
