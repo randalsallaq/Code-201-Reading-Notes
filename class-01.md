@@ -18,3 +18,6 @@ this language contains our content by typing it between some specific tags, star
 ![o](https://www.webdevelopersnotes.com/wp-content/uploads/the-body-tag-attributes.png)
 
 
+## comments in HTML
+comment in coding are pretty much important, WHY?
+to make your code more readable! either for those coders who are working with you on same project, or even for yourself when you come back to read your code again especially if after so long. that's why, coders should use comments from time to time in order to clarify their work.
