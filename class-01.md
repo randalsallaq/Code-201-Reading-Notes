@@ -13,11 +13,8 @@ this language contains our content by typing it between some specific tags, star
 ![k](https://miro.medium.com/max/498/1*5gJzummAqpBDGATo0fjU6Q.jpeg)
 
 ###### HTML Uses Elements to Describe the Structure of Pages
-Examples:
-- <p>: which means paragragh.
-- <h1>: the mainheading.
-- <h2>: heading.
- 
- **these tags are basically included into the body tag <body>
+###### the body tag contains all of the content in the web page.
+
+![o](https://www.webdevelopersnotes.com/wp-content/uploads/the-body-tag-attributes.png)
 
 
