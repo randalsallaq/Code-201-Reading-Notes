@@ -51,3 +51,17 @@ CSS contains two parts:
 | *INLINE*         |*INTERNAL*                                                    |    *EXTERNAL*    |
 | -------------    | -------------                                                |---------         |
 | inside the tag   |in the HTML file, inside the style tag `<style> here </style>`|in a separate file|
+
+
+# JAVA.SCRIPT
+
+**Java script is basically responsible for the interactions in the web page, whether these interactions were with the user's interfere or without.
+These interactions are written in statements, with comments to make the clarify the code more**
+
+
+
+| statement                        |comment                                                       |   
+| -------------                    | -------------                                                |
+| `var today= new Date{);`
+|`var hourNow = today.getHours{) ;`
+|`var greeting;`                     | `/*this is a comment*/`|
