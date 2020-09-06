@@ -19,4 +19,4 @@ In markup language we have **6 levels** of headings:
 **each one of these headings have a different size, a different usage and important as well. We use the first heading to insert the main title, the second one to the next title and so**
 
 ***note***
-> Headings are not only for formatting text's size. They are important for the search process and result.
+> Headings are not only for formating text size. They are important for the search process and result.
