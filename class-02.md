@@ -16,6 +16,8 @@ In markup language we have **6 levels** of headings:
 
 `<h6>`
 
+![ra](https://www.w3.org/community/webed/wiki/images/4/44/Tr_hn01.png)
+
 **each one of these headings have a different size, a different usage and important as well. We use the first heading to insert the main title, the second one to the next title and so**
 
 ***note***
