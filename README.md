@@ -4,8 +4,8 @@ In this web page you are going to find a summery for all the topics which I will
 
 | *Link*          |*Web Page Name* |    *Date*  |
 | ------------- | ------------- |--------- |
-| Read_01       |         ||
-| Read_02       |  ||
+| Read_01       |   [class-01](https://randalsallaq.github.io/Code-201-Reading-Notes/class-01)    ||
+| Read_02       | [class-02](https://randalsallaq.github.io/Code-201-Reading-Notes/class-02) ||
 | Read_03       |   ||
 | Read_04       |  ||
 | Read_05       |  ||
