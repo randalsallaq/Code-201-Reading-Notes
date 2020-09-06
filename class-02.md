@@ -47,6 +47,7 @@ CSS contains two parts:
 ![Screenshot (30)](https://user-images.githubusercontent.com/70090232/92331386-da770480-f07e-11ea-8256-e5b0ac43f200.png)
 
 * There is 3 different types of CSS, according to where we place it:
-| *INLINE*         |*INTERNAL* |    *EXTERNAL*  |
-| ------------- | ------------- |--------- |
-| inside the tag       |in the HTML file, inside the style tag `<style> here </style>`      |in a separate file|
+
+| *INLINE*         |*INTERNAL*                                                    |    *EXTERNAL*    |
+| -------------    | -------------                                                |---------         |
+| inside the tag   |in the HTML file, inside the style tag `<style> here </style>`|in a separate file|
