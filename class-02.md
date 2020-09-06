@@ -18,7 +18,14 @@ In markup language we have **6 levels** of headings:
 
 ![ra](https://www.w3.org/community/webed/wiki/images/4/44/Tr_hn01.png)
 
-**each one of these headings have a different size, a different usage and important as well. We use the first heading to insert the main title, the second one to the next title and so**
+**each one of these headings have a different size, a different usage and importance as well. We use the first heading to insert the main title, the second one to the next title and so**
 
 ***note***
 > Headings are not only for formating text size. They are important for the search process and result.
+
+
+## PARAGRAGHS
+Paragraghs basically contains most of the content in the web page. Especially if this content is Articles. We separate paragrapghs the same way we do it when we are writing on our papers or word document!
+This means: **you can add as much paragraghs as you want**, by including the content between the paragragh tags:
+`<p> this is a paragragh </p>
+<p> this is another paragragh </p>`
