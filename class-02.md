@@ -37,3 +37,9 @@ This means: **you can add as much paragraphs as you want**, by including the con
 
 
 # CSS
+![Screenshot (28)](https://user-images.githubusercontent.com/70090232/92331223-d1d1fe80-f07d-11ea-94a7-5aa8d7856e1e.png)
+
+
+CSS contains two parts:
+- selector
+- declaration
