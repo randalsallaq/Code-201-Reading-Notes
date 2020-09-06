@@ -24,8 +24,11 @@ In markup language we have **6 levels** of headings:
 > Headings are not only for formating text size. They are important for the search process and result.
 
 
-## PARAGRAGHS
-Paragraghs basically contains most of the content in the web page. Especially if this content is Articles. We separate paragrapghs the same way we do it when we are writing on our papers or word document!
-This means: **you can add as much paragraghs as you want**, by including the content between the paragragh tags:
-`<p> this is a paragragh </p>
-<p> this is another paragragh </p>`
+## PARAGRAPHS
+Paragraphs basically contains most of the content in the web page. Especially if this content is Articles. We separate paragraphs the same way we do it when we are writing on our papers or word document!
+
+This means: **you can add as much paragraphs as you want**, by including the content between the paragraph tags:
+
+`<p> this is a paragraph </p>`
+
+`<p> this is another paragraph </p>`
