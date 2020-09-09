@@ -29,5 +29,38 @@ EX:
 In order to make websites more comfortable to the eyes as well as more organized awe use the CSS Layout.
 In CSS there is a lot of samples of layout, such as:
 
+![Screenshot (41)](https://user-images.githubusercontent.com/70090232/92556204-00182f80-f272-11ea-9056-7425d7138807.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/70090232/92556220-060e1080-f272-11ea-9872-88e2593a9651.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/70090232/92556221-09090100-f272-11ea-88a1-023e011e5ece.png)
+
+**The layout usually depends on the target**
 
 
+
+# J.S Functions..
+
+
+A function is the way to run the same code without really repeating it. So functions can contain a set of statements that will be repeated in JavaScript code.
+The main reason behind using Functions is ti save time and effort, make the code more orgnized and clear as well.
+
+EX:
+
+`var person = {`
+
+  `firstName: "John",`
+  
+  `lastName : "Doe",`
+  
+  `id       : 5566,`
+  
+  `fullName : function() {`
+  
+    `return this.firstName + " " + this.lastName;`
+    
+ ` }`
+ 
+`};`
+
+
+
+![f](https://flaviocopes.com/javascript-functions/methods-this.png)
