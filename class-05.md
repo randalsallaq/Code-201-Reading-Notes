@@ -32,6 +32,9 @@ so the code of the image will be like this:
 
 `<img src ="image link"/>`
 
+it is also important to use an alternative message, in case if the image is not working for any reason. you can add it by adding `alt="text"` inside the img tag.
+
+
 
 # CSS Colors..
 
@@ -43,4 +46,20 @@ for colors in css we have three defferent ways for presenting and detemining the
 
 3. NAME: there are 147 colors names in CSS, such as: white and blue.
 
-it is also important to use an alternative message, in case if the image is not working for any reason. you can add it by adding `alt="text"` inside the img tag.
+
+![Screenshot (47)](https://user-images.githubusercontent.com/70090232/92682933-3b7e3100-f33a-11ea-80a2-3975462c490c.png)
+
+
+![Screenshot (48)](https://user-images.githubusercontent.com/70090232/92683516-c27fd900-f33b-11ea-8ea7-d6014f015b90.png)![image](https://user-images.githubusercontent.com/70090232/92683202-f27aac80-f33a-11ea-8bab-e572704bf6cd.png)
+
+
+### Contrast:
+
+for making the font more visible on colored background, we can control the contrast. so we have:
+
+- low contrast
+- medium contrast
+- high contrast
+
+![Screenshot (49)](https://user-images.githubusercontent.com/70090232/92683419-851b4b80-f33b-11ea-98e8-a0861820a238.png)
+
