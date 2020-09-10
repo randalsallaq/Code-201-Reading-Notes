@@ -50,7 +50,7 @@ for colors in css we have three defferent ways for presenting and detemining the
 ![Screenshot (47)](https://user-images.githubusercontent.com/70090232/92682933-3b7e3100-f33a-11ea-80a2-3975462c490c.png)
 
 
-![Screenshot (48)](https://user-images.githubusercontent.com/70090232/92683516-c27fd900-f33b-11ea-8ea7-d6014f015b90.png)![image](https://user-images.githubusercontent.com/70090232/92683202-f27aac80-f33a-11ea-8bab-e572704bf6cd.png)
+
 
 
 ### Contrast:
