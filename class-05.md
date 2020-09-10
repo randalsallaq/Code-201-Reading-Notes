@@ -22,6 +22,8 @@ Sometimes developers face some problems in funding good images for free. For tha
 if you are building a website, then you should propably store your images in your device in a separate file. so that you have the right access for them as well as make your work easier and more orgnized.
 
 
+![Screenshot (46)](https://user-images.githubusercontent.com/70090232/92682043-007afe00-f338-11ea-939e-d55956b9e312.png)
+
 ### Adding Images to your HTML file..
 
 To add am image for your HTML file you have to yous the image tag `<img>`, `src`, `link`
@@ -29,5 +31,16 @@ To add am image for your HTML file you have to yous the image tag `<img>`, `src`
 so the code of the image will be like this:
 
 `<img src ="image link"/>`
+
+
+# CSS Colors..
+
+for colors in css we have three defferent ways for presenting and detemining them:
+
+1. RGB: this ways consists of 3 colors: red green and blue. the proportion of each color all together creates a different color. example: rgb(100,100,90).
+
+2.HEX: it is also about green red and blue, but they are are six-digit codes. example: #ee3e80
+
+3. NAME: there are 147 colors names in CSS, such as: white and blue.
 
 it is also important to use an alternative message, in case if the image is not working for any reason. you can add it by adding `alt="text"` inside the img tag.
