@@ -50,7 +50,7 @@ for colors in css we have three defferent ways for presenting and detemining the
 ![Screenshot (47)](https://user-images.githubusercontent.com/70090232/92682933-3b7e3100-f33a-11ea-80a2-3975462c490c.png)
 
 
-
+![Screenshot (48)](https://user-images.githubusercontent.com/70090232/92683516-c27fd900-f33b-11ea-8ea7-d6014f015b90.png)
 
 
 ### Contrast:
@@ -63,3 +63,25 @@ for making the font more visible on colored background, we can control the contr
 
 ![Screenshot (49)](https://user-images.githubusercontent.com/70090232/92683419-851b4b80-f33b-11ea-98e8-a0861820a238.png)
 
+
+
+# Text styling
+
+### font-family
+
+this property to change the font type for specifec elements by including it inlene or seperately:
+
+`body {`
+`font-family: Georgia, Times, serif;}`
+
+
+### font-size
+
+we can control font size by including font-size property
+
+`h1 {`
+`font-size: 200%;}`
+
+**Units of Type Size**
+
+![Screenshot (50)](https://user-images.githubusercontent.com/70090232/92685048-8cdcef00-f33f-11ea-882a-a36d6c84362f.png)
