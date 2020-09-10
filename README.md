@@ -8,7 +8,7 @@ In this web page you are going to find a summery for all the topics which I will
 | Read_02       | [class-02](https://randalsallaq.github.io/Code-201-Reading-Notes/class-02) |
 | Read_03       |  [class-03](https://randalsallaq.github.io/Code-201-Reading-Notes/class-03) |
 | Read_04       | [class-04](https://randalsallaq.github.io/Code-201-Reading-Notes/class-04) |
-| Read_05       | [class-05](https://randalsallaq.github.io/Code-201-Reading-Notes/class-05)]  |
+| Read_05       | [class-05](https://randalsallaq.github.io/Code-201-Reading-Notes/class-05) |
 | Read_06       |  |
 | Read_07       |   |
 | Read_08       |  |
