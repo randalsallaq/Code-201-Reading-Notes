@@ -72,6 +72,7 @@ for making the font more visible on colored background, we can control the contr
 this property to change the font type for specifec elements by including it inlene or seperately:
 
 `body {`
+
 `font-family: Georgia, Times, serif;}`
 
 
@@ -80,6 +81,7 @@ this property to change the font type for specifec elements by including it inle
 we can control font size by including font-size property
 
 `h1 {`
+
 `font-size: 200%;}`
 
 **Units of Type Size**
