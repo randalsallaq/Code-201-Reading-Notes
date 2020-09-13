@@ -1,6 +1,6 @@
 # JavaScript Objects
 
-we use opjects to set a group of discriptions or variables or functions for some specific thing from the real word, such as:
+we use objects to set a group of descriptions or variables or functions for some specific thing from the real word, such as:
 
 `var car = {type:"honda", model:"500", color:"black"};`
 
@@ -43,4 +43,4 @@ ex:
 ![Screenshot (59)](https://user-images.githubusercontent.com/70090232/93011445-0c1c2e00-f59f-11ea-862b-bf2ce658de73.png)
 
 
-ffff
+
