@@ -9,8 +9,11 @@
 
 ## Floats
 
-float is one of the most used properities is css, as it allows the developer to move their elements through the page. which is helpful to make some small edits.
+> float is one of the most used properities is css, as it allows the developer to move their elements through the page. which is helpful to make some small edits.
 
 ![d](https://www.1keydata.com/css-tutorial/website-layout-using-float.jpg)
-j
-h
+
+
+`.box {`
+ `float: left;}`
+
