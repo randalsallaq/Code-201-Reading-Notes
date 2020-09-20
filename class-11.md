@@ -36,3 +36,4 @@ ex:
 
 we can add flash videos to our webpages by using java script:
 
+![Screenshot (105)](https://user-images.githubusercontent.com/70090232/93694638-ecdd4d80-fb16-11ea-9c48-8f7a09cdce83.png)
