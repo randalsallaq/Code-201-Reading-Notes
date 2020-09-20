@@ -30,4 +30,9 @@ ex:
 `height: 250px;}`
 
 
+![Screenshot (104)](https://user-images.githubusercontent.com/70090232/93694480-db934180-fb14-11ea-96d0-947213cecf2a.png)
+
+# Flash Movies
+
+we can add flash videos to our webpages by using java script:
 
