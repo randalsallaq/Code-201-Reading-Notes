@@ -12,13 +12,22 @@ to align images using css we can use **float** property in order to move the pic
 ex: 
 
 `img.align-left {`
+
 `float: left;`
+
 `margin-right: 10px;}`
+
 `img.align-right {`
+
 `float: right;`
+
 `margin-left: 10px;}`
+
 `img.medium {`
-`width: 250px;`
+
+`width: 250px;` 
+
 `height: 250px;}`
+
 
 
