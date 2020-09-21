@@ -12,5 +12,5 @@ in order to add charts to our files, we have to add "canvas" tag in the html pag
 
 to make a pie chart we have to set the values in an array:
 
-![g](![Screenshot (132)](https://user-images.githubusercontent.com/70090232/93733811-8f610380-fbdf-11ea-8f52-99a9595e88df.png)
-)
+![g][Screenshot (132)](https://user-images.githubusercontent.com/70090232/93733811-8f610380-fbdf-11ea-8f52-99a9595e88df.png)
+
